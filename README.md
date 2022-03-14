@@ -1,27 +1,22 @@
-# Next.js + Tailwind CSS Example
+# Bored Store ( Created For Codeflow )
+## Features
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+### NFT Store ( coming soon )
+#### Repository Link - https://github.com/Harindulk/Bored-Store
+![image](https://user-images.githubusercontent.com/61319844/158212164-e071fd6a-c6dc-4612-b56f-65dd44e880f0.png)
 
-## Preview
+----
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+### Very Fast ( tested using https://web.dev )
+![image](https://user-images.githubusercontent.com/61319844/158209579-f6a4d6e7-32d5-45dc-b0b3-b2bf2a5ae1e1.png)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+----
+### Layer Based Random Generated NFTs
+![image](https://user-images.githubusercontent.com/61319844/158212021-6052ff1b-65bd-4d99-94aa-dab4a16428cc.png)
+#### Repository Link - https://github.com/Harindulk/NFT-Generator
+#### How I generated 200 NFTs Youtube Video - https://youtu.be/OFooHcA6O_k
 
-## Deploy your own
+----
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Login Using MetaMask
+![image](https://user-images.githubusercontent.com/61319844/158213647-ca92c1da-c4c1-45cd-b576-cff5314f1280.png)
