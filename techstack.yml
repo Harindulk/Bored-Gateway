@@ -1,0 +1,266 @@
+repo_name: Harindulk/Bored-Gateway
+report_id: c98d98ad03c4bf89c96abf5d8a2b9405
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-04T18:25:03+00:00'
+requested_by: Harindulk
+provider: github
+branch: Harindulk
+detected_tools_count: 20
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 12.1.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway
+  detection_source: Repo Metadata
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.38
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: ethers
+  description: Umbrella package for most common Ethers libraries
+  package_url: https://www.npmjs.com/ethers
+  version: 5.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17297/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: react-modal
+  description: Accessible modal dialog component for React.JS
+  package_url: https://www.npmjs.com/react-modal
+  version: 3.14.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16926/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.0.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/Harindulk/Bored-Gateway/blob/Harindulk/package-lock.json
+  detection_source: package.json
+  last_updated_by: harindulk
+  last_updated_on: 2022-03-12 11:58:03.000000000 Z
